@@ -10,3 +10,5 @@ tls+browser testing:   https://www.ssllabs.com/index.html
 
 
 https://dev.to/domysee/setting-up-a-reverse-proxy-with-nginx-and-docker-compose-29jg
+
+wifi refresh:  https://pakedge.wordpress.com/2015/11/17/2x2-3x3-what-does-it-matterfind-out/
