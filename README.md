@@ -14,3 +14,7 @@ https://dev.to/domysee/setting-up-a-reverse-proxy-with-nginx-and-docker-compose-
 wifi refresh:  https://pakedge.wordpress.com/2015/11/17/2x2-3x3-what-does-it-matterfind-out/
 
 linux firewall ports opening as on firewall appliances: https://linuxconfig.org/how-to-open-allow-incoming-firewall-port-on-ubuntu-18-04-bionic-beaver-linux
+
+
+legacy db cluster on docker   
+https://severalnines.com/blog/mysql-docker-running-mariadb-galera-cluster-without-container-orchestration-tools-part-1
