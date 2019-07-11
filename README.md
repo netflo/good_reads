@@ -18,3 +18,5 @@ linux firewall ports opening as on firewall appliances: https://linuxconfig.org/
 
 legacy db cluster on docker   
 https://severalnines.com/blog/mysql-docker-running-mariadb-galera-cluster-without-container-orchestration-tools-part-1
+
+mysql group replication explained:  http://mysqlhighavailability.com/mysql-group-replication-a-quick-start-guide/
