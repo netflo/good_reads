@@ -24,3 +24,6 @@ post critical failure recovery with:  http://mysqlhighavailability.com/gone-miss
 
 traefik, swarm, devOps general
 https://dockerswarm.rocks/
+
+consul
+https://medium.com/velotio-perspectives/a-practical-guide-to-hashicorp-consul-part-1-5ee778a7fcf4
