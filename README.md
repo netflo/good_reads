@@ -27,3 +27,6 @@ https://dockerswarm.rocks/
 
 consul
 https://medium.com/velotio-perspectives/a-practical-guide-to-hashicorp-consul-part-1-5ee778a7fcf4
+
+imported certs with traefik/docker
+https://github.com/wekan/wekan/wiki/Traefik-and-self-signed-SSL-certs
