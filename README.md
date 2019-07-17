@@ -21,3 +21,6 @@ https://severalnines.com/blog/mysql-docker-running-mariadb-galera-cluster-withou
 
 mysql group replication explained:  http://mysqlhighavailability.com/mysql-group-replication-a-quick-start-guide/
 post critical failure recovery with:  http://mysqlhighavailability.com/gone-missing-the-day-a-few-group-members-went-silent/
+
+traefik, swarm, devOps general
+https://dockerswarm.rocks/
