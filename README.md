@@ -30,3 +30,6 @@ https://medium.com/velotio-perspectives/a-practical-guide-to-hashicorp-consul-pa
 
 imported certs with traefik/docker
 https://github.com/wekan/wekan/wiki/Traefik-and-self-signed-SSL-certs
+
+consul and host integration
+https://medium.com/zendesk-engineering/making-docker-and-consul-get-along-5fceda1d52b9
