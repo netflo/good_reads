@@ -33,3 +33,4 @@ https://github.com/wekan/wekan/wiki/Traefik-and-self-signed-SSL-certs
 
 consul and host integration
 https://medium.com/zendesk-engineering/making-docker-and-consul-get-along-5fceda1d52b9
+https://attx-project.github.io/Consul-for-Service-Discovery-on-Docker-Swarm.html
