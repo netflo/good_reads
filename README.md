@@ -45,3 +45,5 @@ https://learn.hashicorp.com/consul/developer-discovery/external#overview
 
 Serverless + react
 https://serverless-stack.com/chapters/add-a-billing-api.html
+
+https://medium.com/expedia-group-tech/aws-cognito-aws-lambda-serverless-framework-react-with-redux-92cdfec83df2
