@@ -37,3 +37,6 @@ https://attx-project.github.io/Consul-for-Service-Discovery-on-Docker-Swarm.html
 
 no seed server + self healing  Consul
 https://bhavik.io/2017/12/19/consul-with-docker-swarm-mode.html
+
+consul registry update via CURL
+https://learn.hashicorp.com/consul/developer-discovery/external#overview
