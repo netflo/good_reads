@@ -40,3 +40,8 @@ https://bhavik.io/2017/12/19/consul-with-docker-swarm-mode.html
 
 consul registry update via CURL
 https://learn.hashicorp.com/consul/developer-discovery/external#overview
+
+
+
+Serverless + react
+https://serverless-stack.com/chapters/add-a-billing-api.html
