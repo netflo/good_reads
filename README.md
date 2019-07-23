@@ -47,3 +47,9 @@ Serverless + react
 https://serverless-stack.com/chapters/add-a-billing-api.html
 
 https://medium.com/expedia-group-tech/aws-cognito-aws-lambda-serverless-framework-react-with-redux-92cdfec83df2
+
+
+swarm networking
+https://forums.docker.com/t/swarm-with-a-static-ip-multiple-interfaces/78308/2
+
+
