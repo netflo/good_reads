@@ -55,4 +55,5 @@ https://forums.docker.com/t/swarm-with-a-static-ip-multiple-interfaces/78308/2
 traefik with reverse proxy letsencrypt
 https://www.digitalocean.com/community/tutorials/how-to-use-traefik-as-a-reverse-proxy-for-docker-containers-on-debian-9
 
-
+vault with quorum of keys
+https://www.bogotobogo.com/DevOps/Docker/Docker-Vault-Consul-C.php
